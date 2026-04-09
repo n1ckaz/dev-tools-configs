@@ -1,0 +1,13 @@
+theme = "light:Horizon Bright,dark:Broadcast"
+font-size = 15
+window-padding-x = 8
+window-padding-y = 8
+window-decoration = auto
+adjust-cell-height= 20%
+window-colorspace = "display-p3"
+copy-on-select = clipboard
+window-padding-balance = true
+window-save-state = always
+macos-titlebar-style = transparent
+background-opacity = 0.5
+background-blur = 50
